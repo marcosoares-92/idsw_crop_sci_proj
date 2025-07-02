@@ -1,2 +1,2 @@
-# idsw_crop_sci_proj
-Repository containing Crop Science Projetcs using IDSW
+# Crop Science Projects - IDSW
+Repository containing Crop Science Projetcs developed using IDSW package and workflow.
